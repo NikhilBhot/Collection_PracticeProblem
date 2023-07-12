@@ -5,7 +5,9 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Collection Pratice Problem");
-            CountOfRemainingChapters.DemoMethod();
+            //CountOfRemainingChapters.DemoMethod();
+
+            MaximumSelingPrice.MaximumSellingPriceMain();
         }
     }
 }
